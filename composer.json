@@ -1,0 +1,12 @@
+{
+  "name": "frankie/request",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Request\\": "src"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.2",
+    "frankie/uploaded-file": "^1.0"
+  }
+}
